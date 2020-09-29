@@ -1,5 +1,5 @@
 "cartproductshiper":[
 
-{"id":5,"backet_product_id":135807,"codbar":null,"product":"Café Kimimo Moido 250G","product_upper":"CAFÉ KIMIMO MOIDO 250G","product_accent":"CAFE KIMIMO MOIDO 250G","photo_png":"IlOk6GHwqIPj3HgCQqOJReEpCtOmhIFXZePvvys7.png","photo_gif":null,"photo_path":"super/uploads/2020/","category":"MERCEARIA","publish":1,"product_details":{"id":5,"product_id":5,"price":4.8,"unit_of_measurement":"UNITY","stock_quantity":10},"qtdItens":1},
+{"id":5,"product":"Café Kimimo Moido 250G","product_upper":"CAFÉ KIMIMO MOIDO 250G","product_accent":"CAFE KIMIMO MOIDO 250G","photo_png":"IlOk6GHwqIPj3HgCQqOJReEpCtOmhIFXZePvvys7.png","photo_gif":null,"photo_path":"super/uploads/2020/","category":"MERCEARIA","publish":1,"product_details":{"id":5,"product_id":5,"price":4.8,"unit_of_measurement":"UNITY","stock_quantity":10},"qtdItens":1}
 
 ]
